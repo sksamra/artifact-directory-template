@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Genetic Overlap between Alzheimer's, Parkinson’s, and healthy patients
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Our research compares overlapping patterns in miRNA between patients with Alzheimer's and Parkinson’s across two biofluids, cerebrospinal fluid and serum, by pinpointing significant transcription factors that the diseases share. We hope the results of our gene analysis can be leveraged by researchers to help alleviate the effects of the disorders and potentially develop medicines and therapies that target these genes.
