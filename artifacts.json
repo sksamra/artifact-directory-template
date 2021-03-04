@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/sksamra/artifact-directory-template.git",
+    "project-repository": "https://github.com/sksamra/miRNA_overlap_between_AD_PD.git",
+    "dockerhub-repository": "sksamra/genetics:latest",
+    "project-website-url": "https://xuanyuw.github.io/miRNA_overlap_AD_PD.github.io/",
+    "project-website-code": "https://github.com/xuanyuw/miRNA_overlap_AD_PD.github.io.git"
 }
